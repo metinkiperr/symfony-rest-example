@@ -1,2 +1,3 @@
-# symfony-rest-example
-Simple symfony rest example.
+restapi
+=======
+Symfony example rest api.
